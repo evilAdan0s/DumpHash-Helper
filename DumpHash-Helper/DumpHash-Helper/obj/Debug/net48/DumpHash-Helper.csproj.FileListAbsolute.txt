@@ -1,0 +1,9 @@
+/Users/adan0s/RiderProjects/DumpHash-Helper/DumpHash-Helper/bin/Debug/net48/DumpHash-Helper.exe.config
+/Users/adan0s/RiderProjects/DumpHash-Helper/DumpHash-Helper/bin/Debug/net48/DumpHash-Helper.exe
+/Users/adan0s/RiderProjects/DumpHash-Helper/DumpHash-Helper/bin/Debug/net48/DumpHash-Helper.pdb
+/Users/adan0s/RiderProjects/DumpHash-Helper/DumpHash-Helper/obj/Debug/net48/DumpHash-Helper.csprojAssemblyReference.cache
+/Users/adan0s/RiderProjects/DumpHash-Helper/DumpHash-Helper/obj/Debug/net48/DumpHash-Helper.csproj.CoreCompileInputs.cache
+/Users/adan0s/RiderProjects/DumpHash-Helper/DumpHash-Helper/obj/Debug/net48/DumpHash-Helper.AssemblyInfoInputs.cache
+/Users/adan0s/RiderProjects/DumpHash-Helper/DumpHash-Helper/obj/Debug/net48/DumpHash-Helper.AssemblyInfo.cs
+/Users/adan0s/RiderProjects/DumpHash-Helper/DumpHash-Helper/obj/Debug/net48/DumpHash-Helper.exe
+/Users/adan0s/RiderProjects/DumpHash-Helper/DumpHash-Helper/obj/Debug/net48/DumpHash-Helper.pdb

@@ -1,0 +1,31 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/adan0s/RiderProjects/DumpHash-Helper/DumpHash-Helper/DumpHash-Helper.csproj",
+    "projectName": "DumpHash-Helper",
+    "projectPath": "/Users/adan0s/RiderProjects/DumpHash-Helper/DumpHash-Helper/DumpHash-Helper.csproj",
+    "outputPath": "/Users/adan0s/RiderProjects/DumpHash-Helper/DumpHash-Helper/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net48"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net48": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net48": {
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+    }
+  }
+}
